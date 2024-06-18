@@ -47,5 +47,5 @@ class MyRoundedWidget extends StatelessWidget {
         width: 600,
         height: 400,
         child: Text('Index: $index'),
-      ).roundedOpt2();
+      ).roundedOpt1();
 }
